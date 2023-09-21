@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+li >a{
+    color: red;
+}
+.a navbar-brand{
+    border: 2px solid rgb(204, 201, 28);
+    padding: 25x;
+    border-radius: 150px;
+  
+}
+.collapse {
+ overflow:hidden;
+ border: none;
+}
+
+h1 span{
+    color: blue;
+    font-size: 30px;
+    line-height: 50px;
+    font-weight:bolder;
+}
+a{
+    text-decoration: none;
+}
+.cls a{
+text-decoration: none;
+border: 2px solid blue;
+padding: 10px;
+border-radius: 20px;
+color: white;
+background-color: blue;
+}
+
+svg{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+svg:hover{
+   background: red;
+    /* border: 1px solid green; */
+    border-radius: 150%;
+}
+.main img{
+    width: 300px;
+    /* height: 400px; */
+    
+}
+.about
+ h2{
+    font-size: 30px;
+    align-items: center;
+    color: blue;
+    text-decoration:underline;
+}
+.about
+ h1{
+    font-weight: bolder;
+ }
+ .about
+ p{
+    color: black;
+ }
+.skills h2{
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+}
+.skills h4{
+    font-weight: bolder;
+}
+.footer h3{
+    font-size: 30px;
+    text-decoration: underline;
+ color: blue;
+ text-align: center;
+}
+.footer{
+    margin-bottom: 100px;
+}
